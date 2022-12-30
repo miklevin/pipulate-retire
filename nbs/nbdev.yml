@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "pipulate"
+  site-url: "https://miklevin.github.io/pipulate"
+  description: "Rebooting Pipulate Free & Open Source SEO Software Project"
+  repo-branch: main
+  repo-url: "https://github.com/miklevin/pipulate"
